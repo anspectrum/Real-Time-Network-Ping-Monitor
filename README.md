@@ -66,3 +66,5 @@ Add or remove IPs as needed.
     Monitor latency to routers, gateways, DNS servers, or public IPs
 
     Visualize spikes and drops in network performance
+
+<img width="1366" height="526" alt="Screenshot" src="https://github.com/user-attachments/assets/ace61217-cd2b-4882-b6cc-8ba969b680ad" />
