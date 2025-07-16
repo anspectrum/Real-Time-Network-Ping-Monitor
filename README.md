@@ -26,7 +26,8 @@ A Python script that continuously pings a list of IP addresses and plots their R
     Clone the repository:
 
 git clone https://github.com/anspectrum/Real-Time-Network-Ping-Monitor.git
-cd network-ping-monitor
+
+cd Real-Time-Network-Ping-Monitor
 
 Install dependencies:
 
